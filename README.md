@@ -21,8 +21,8 @@ A central library web app for books arrangement , users , issue and return of Bo
      9.view the profile of all admins
    
  ### you can enter as admin to view by following credentials
-     **user id** - ak12
-     **password** - 123456
+      user id - ak12
+     password - 123456
  
  https://librmern.herokuapp.com/
  
