@@ -3,14 +3,14 @@ A central library web app for books arrangement , users , issue and return of Bo
 
 # what a user can do
 ### A student can -
-      1. register himself on the app 
-      2. iew and edit his profile 
+     1. register himself on the app 
+     2. iew and edit his profile 
      3. change his password  
      4. search for books and view availabilty  
      5. view his issue history
      
 ### An admin can
-  1. view and edit his profile <br/>
+  1.view and edit his profile <br/>
   2.search for books and view availability<br/>
   3.view, Edit or Delete existing books <br/>
   4.add new books <br/>
