@@ -23,6 +23,9 @@ A central library web app for books arrangement , users , issue and return of Bo
  ### you can enter as admin to view by following credentials
       user id - ak12
      password - 123456
+     
+  You can also register yourself as a student and then login to view the options available to a student.
+ 
  
  https://librmern.herokuapp.com/
  
