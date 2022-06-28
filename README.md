@@ -26,6 +26,6 @@ A central library web app for books arrangement , users , issue and return of Bo
      
   You can also register yourself as a student and then login to view the options available to a student.
  
- 
- https://librmern.herokuapp.com/
+ ### View live app
+  Hosted at :  https://librmern.herokuapp.com/
  
