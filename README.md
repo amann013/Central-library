@@ -30,4 +30,18 @@ A central library web app for books arrangement , users , issue and return of Bo
   Hosted at :  https://librmern.herokuapp.com/
  
  ### Tech Stack used
-   [MongoDB]
+   [MongoDB] - Document Database
+   [Express.js] - Backend Framework
+   [React]- Frontend Framework
+   [Node.js] - runtime enviroment
+   
+ ### Middleware used
+   [Redux] && [Mongoose]
+ 
+   
+   
+   
+   
+   
+   
+   
