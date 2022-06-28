@@ -1,5 +1,5 @@
 # Central-library
-A central library web app for books arrangement , users , issue and return of Books in library 
+A  FULL MERN central library web app for books arrangement , users , issue and return of Books in library 
 
 # what a user can do
 ### A student can -
