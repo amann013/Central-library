@@ -3,7 +3,7 @@ A central library web app for books , users , issue and return of Books in libra
 
 # what a user can do
 ### A student can -
-   register himself on the app <br/>
+  "." register himself on the app <br/>
    view and edit his profile  <br/>
    change his password  <br/>
    search for books and view availabilty  <br/>
