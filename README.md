@@ -22,16 +22,16 @@ https://github.com/amann013/Central-library
 
      
  
- ### View live app
+ ### View live app -
   Hosted at :  https://librmern.herokuapp.com/
  
- ### Tech Stack used
+ ### Tech Stack used -
    [MongoDB] - Document Database </br>
    [Express.js] - Backend Framework </br>
    [React]- Frontend Framework </br>
    [Node.js] - runtime enviroment
    
- ### Middleware used
+ ### Middleware used -
    [Redux] && [Mongoose]
  
    
