@@ -27,8 +27,8 @@ https://github.com/amann013/Central-library
  
  ### Tech Stack used
    [MongoDB] - Document Database </br>
-   [Express.js] - Backend Framework
-   [React]- Frontend Framework
+   [Express.js] - Backend Framework </br>
+   [React]- Frontend Framework </br>
    [Node.js] - runtime enviroment
    
  ### Middleware used
