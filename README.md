@@ -23,7 +23,7 @@ https://github.com/amann013/Central-library
      
  
  ### View live app -
-  Hosted at :  https://librmern.herokuapp.com/
+  Hosted at : https://librmanagement.netlify.app/
  
  ### Tech Stack used -
    [MongoDB] - Document Database </br>
